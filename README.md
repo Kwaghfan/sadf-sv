@@ -1,2 +1,1 @@
-#!/bin/bash
-whiz
+Task 0.Where am I?
